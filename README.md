@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Aashutosh Kumar
 
 # 💫 About Me:
 Hi, I am Aashutosh Kumar <br>currently pursuing Btech in CSE in GITAM University.<br>I am interested in ML , DL , Computer Vision and gen AI
